@@ -1,0 +1,14 @@
+section{
+    min-height: 40vh;
+    background-color: #2C3E50;
+}
+.social i{
+    color: white;
+    border: solid 1px white;
+    padding: 10px;
+    border-radius: 50%;
+}
+footer{
+    min-height: 10vh;
+    background-color: #222b35;
+}

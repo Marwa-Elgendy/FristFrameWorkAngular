@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+.main-color{
+    background-color: #1abc9c !important;
+}
+
+
+.home-line{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
+
+.min-vh-70 {
+    min-height: 80vh;
+}
